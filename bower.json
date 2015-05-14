@@ -1,6 +1,6 @@
 {
-  "author": "AngularUI",
-  "name": "angular-ui-select2",
+  "author": "gion",
+  "name": "gion-ui-select2",
   "version": "0.0.5",
   "homepage": "http://angular-ui.github.com",
   "keywords": [
@@ -11,7 +11,7 @@
   "main": "./src/select2.js",
   "dependencies": {
     "angular": ">=1.2.0",
-    "select2": "git@github.com:gion/select2.git",
+    "gion-select2": "git@github.com:gion/select2.git",
     "jquery": ">=1.6.4"
   },
   "devDependencies": {
