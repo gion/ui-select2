@@ -11,7 +11,7 @@
   "main": "./src/select2.js",
   "dependencies": {
     "angular": ">=1.2.0",
-    "gion-select2": "git@github.com:gion/select2.git",
+    "gion-select2": ">=0.0.0",
     "jquery": ">=1.6.4"
   },
   "devDependencies": {
